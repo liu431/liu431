@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Li Liu</h1>
 <h3 align="center">Data & Software Engineer</h3>
 
-- 🔭 I’m currently working on **improving data platforms**
+- 🔭 I’m currently working on **being an expert in data engineering**
 
 - 🌱 I’m currently learning **Scala, Streaming Data Processing, MLOps**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Python, SQL, Data Pipelines, Data Science**
 
 - 📫 How to reach me **liliu.data@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/liu431/Portfolio-Website/blob/main/Documents/Li_Liu_Resume.pdf](https://github.com/liu431/Portfolio-Website/blob/main/Documents/Li_Liu_Resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
