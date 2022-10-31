@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Li Liu</h1>
 <h3 align="center">Data & Software Engineer</h3>
 
-- 🔭 I’m currently working on **being an expert in data engineering**
+- 🔭 I’m currently working on **being an expert in data and software engineering**
 
-- 🌱 I’m currently learning **Scala, Streaming Data Processing, MLOps**
+- 🌱 I’m currently learning **AWS, Scala, Streaming Data Processing, MLOps**
 
-- 👨‍💻 All of my projects are available at [https://liliuportfolio.azurewebsites.net/](https://liliuportfolio.azurewebsites.net/)
+- 👨‍💻 Some of my fun projects are available at [https://liliuportfolio.azurewebsites.net/](https://liliuportfolio.azurewebsites.net/)
 
-- 📝 I regularly write articles on [https://medium.com/@liliu.data](https://medium.com/@liliu.data)
+- 📝 I regularly write tech blogs on [https://medium.com/@liliu.data](https://medium.com/@liliu.data)
 
-- 💬 Ask me about **Python, SQL, Data Pipelines, Data Science**
+- 💬 Ask me about **Python, SQL, Data Engineering, Running**
 
 - 📫 How to reach me **liliu.data@gmail.com**
 
