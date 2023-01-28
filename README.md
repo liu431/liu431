@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **being an expert in data and software engineering**
 
-- 🌱 I’m currently learning **GCP, Spark, Kafka, MLOps**
+- 🌱 I’m currently learning **GCP, Kafka, MLOps**
 
 - 👨‍💻 Some of my fun projects are available at [https://liliuportfolio.azurewebsites.net/](https://liliuportfolio.azurewebsites.net/)
 
 - 📝 I regularly write tech blogs on [https://medium.com/@liliu.data](https://medium.com/@liliu.data)
 
-- 💬 Ask me about **Python, AWS, SQL, Data Engineering, Running**
+- 💬 Ask me about **Python, AWS, SQL, Data Engineering, Econometrics, Running**
 
 - 📫 How to reach me **liliu.data@gmail.com**
 
