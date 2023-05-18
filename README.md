@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **being an expert in data and software engineering**
 
-- 🌱 I’m currently learning **GCP, Kafka, MLOps**
+- 🌱 I’m currently learning **GCP, MLOps**
 
 - 👨‍💻 Some of my fun projects are available at [https://liliuportfolio.azurewebsites.net/](https://liliuportfolio.azurewebsites.net/)
 
