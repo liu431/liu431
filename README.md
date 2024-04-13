@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **being an expert in data and ML engineering**
 
-- 🌱 I’m currently learning **MLOps, Product Management**
-
 - 📝 I regularly write tech blogs on [https://medium.com/@liliu.data](https://medium.com/@liliu.data)
 
-- 💬 Ask me about **Python, AWS, SQL, Data Engineering, Machine Learning, Econometrics, Running**
+- 💬 Ask me about **Python, AWS, Google Cloud, SQL, Data Engineering, Machine Learning, Econometrics, Running**
 
 - 📫 How to reach me **liliu.data@gmail.com**
 
